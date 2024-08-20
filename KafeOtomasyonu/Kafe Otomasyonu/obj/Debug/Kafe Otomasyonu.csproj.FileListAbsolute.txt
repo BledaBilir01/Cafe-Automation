@@ -1,0 +1,144 @@
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\Users\bleda\source\repos\Yeni klasör\Kafe Otomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\Users\Casper\Desktop\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form3.resources
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\Koto\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form3.resources
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\Users\bleda\OneDrive\Masaüstü\projeler\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form4.resources
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form3.resources
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form4.resources
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\kafe\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form5.resources
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form3.resources
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form4.resources
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form5.resources
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\Kafe otomasyonu\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form3.resources
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form4.resources
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form5.resources
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\Users\bleda\OneDrive\Masaüstü\proje\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form3.resources
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form4.resources
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form5.resources
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\Users\bleda\OneDrive\Masaüstü\Yeni klasör (3)\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form4.resources
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form5.resources
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\Users\Pcc\Desktop\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form4.resources
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form5.resources
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\kafe1\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe.config
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.exe
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\bin\Debug\Kafe Otomasyonu.pdb
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.AssemblyReference.cache
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form1.resources
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form2.resources
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form4.resources
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Form5.resources
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe_Otomasyonu.Properties.Resources.resources
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.GenerateResource.cache
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.exe
+C:\Kafe otomasyon\KafeOtomasyonu\Kafe Otomasyonu\obj\Debug\Kafe Otomasyonu.pdb
